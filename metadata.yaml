@@ -1,0 +1,24 @@
+_repo: Latin-Literature_8894
+creator:
+  author:
+    agent_name: Mackail, J. W. (John William)
+    alias: Mackail, John William
+    birthdate: 1859
+    deathdate: 1945
+    gutenberg_agent_id: '881'
+    url: http://www.gutenberg.org/2009/agents/881
+    wikipedia: http://en.wikipedia.org/wiki/John_William_Mackail
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8894'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latin literature -- History and criticism'
+- !lcc 'PA'
+title: Latin Literature
+url: http://www.gutenberg.org/ebooks/8894
